@@ -1,0 +1,26 @@
+{
+    "fire":{
+        "id":"element_fire",
+        "barcode_val":6,
+        "name":"fire",
+        "scale":"0.02 0.02 0.02"
+    },
+    "water":{
+        "id":"element_water",
+        "barcode_val":23,
+        "name":"water",
+        "scale":"0.02 0.02 0.02"
+    },
+    "air":{
+        "id":"element_wind",
+        "barcode_val":1,
+        "name":"air",
+        "scale":"0.02 0.02 0.02"
+    },
+    "earth":{
+        "id":"element_earth",
+        "barcode_val":5,
+        "name":"earth",
+        "scale":"0.2 0.2 0.2"
+    }
+}

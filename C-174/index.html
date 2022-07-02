@@ -1,0 +1,52 @@
+<!-----------------------------------C-174----------------------------------->
+<!-------------------------------The Elementals------------------------------>
+
+<!--Doctype Tag-->
+<!DOCTYPE>
+
+<!--Head tag-->
+<head>
+
+    <!--Script tags (4)-->
+    <script src="https://aframe.io/releases/1.0.4/aframe.min.js"></script>
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+    <script src="https://rawgit.com/jeromeetienne/AR.js/master/aframe/build/aframe-ar.min.js"></script>
+    <script src="javascript/Elements.js"></script>
+
+    <!--Link tag-->
+    <link rel="stylesheet" href="./style.css">
+</head>
+
+<!--Body tag-->
+<body>
+    <h1>Hello</h1>
+
+   <!--Scene tag--> 
+   <a-scene vr-mode-ui="false" arjs="sourceType:webcam; debugUIEnabled:false;detectionMode:mono_and_matrix;matrixCodeType:3x3" embedded elements-render>
+    
+    <!--Script tag (for introductory swal)-->
+    <script>
+
+        //Creating an introductory swal
+        swal({
+            
+            //Title, text, icon and button tags
+            title:"The Elementals",
+            text:"Welcome to The Elementals \n All materials of the world are formed through the unfeterred union of four basic elements- fire, water, earth and air\n This program allows to combine these majestic beings, to see what happens",
+            icon:"./icons/elementals.png",
+            buttons:{
+                proceed:{
+                    text:"Allow me in",
+                    value:true
+                }
+            }
+        })
+    </script>
+
+    <!--Creating the camera entity-->
+    <a-entity camera></a-entity>
+   </a-scene>    
+</body>
+
+<!-------------------------------The Elementals------------------------------>
+<!-----------------------------------C-174----------------------------------->

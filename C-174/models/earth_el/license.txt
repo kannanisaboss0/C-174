@@ -1,0 +1,11 @@
+Model Information:
+* title:	Seamless Overgrown Grasslands Path PBR Texture
+* source:	https://sketchfab.com/3d-models/seamless-overgrown-grasslands-path-pbr-texture-43f3168be00445e9b255ce4ba6d60eb1
+* author:	d0ggo (https://sketchfab.com/d0ggo)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Seamless Overgrown Grasslands Path PBR Texture" (https://sketchfab.com/3d-models/seamless-overgrown-grasslands-path-pbr-texture-43f3168be00445e9b255ce4ba6d60eb1) by d0ggo (https://sketchfab.com/d0ggo) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

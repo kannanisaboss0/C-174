@@ -1,0 +1,11 @@
+Model Information:
+* title:	Test
+* source:	https://sketchfab.com/3d-models/test-1768cc3b0e5642d9b6b022b4fd02fb0c
+* author:	Hipuff (https://sketchfab.com/Paofu)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Test" (https://sketchfab.com/3d-models/test-1768cc3b0e5642d9b6b022b4fd02fb0c) by Hipuff (https://sketchfab.com/Paofu) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,36 @@
+/*-------------------------------C-174--------------------------------*/
+/*---------------------------The Elementals--------------------------------*/
+/*------------------------------style.css--------------------------------*/
+
+.swal-button{
+    background-color:black;
+    color:white;
+    width:calc(100vw/3.2);
+    height:calc(100vh/15);
+    justify-content:center;
+    padding:1vw;
+    left:0px;
+
+}
+.swal-footer{
+    align-self:center
+}
+.swal-overlay{
+    background-color:rgba(0,0,128,0.7)
+}
+.swal-title{
+    font-size:52px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.swal-icon{
+    width:25%;
+    height:25%;
+    margin-bottom:-50px
+}
+.swal-modal{
+    align-items:center;
+}
+
+/*------------------------------style.css--------------------------------*/
+/*---------------------------The Elementals--------------------------------*/
+/*-------------------------------C-174--------------------------------*/
